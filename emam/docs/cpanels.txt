@@ -1,0 +1,134 @@
+***Smitdogg's Control Panel Packs For MAME Frontends***
+
+
+Feb. 3, 2003 - Pack #16
+
+Hmmm, just ran into a bunch of more pics! 58 new, 22 replaced.
+Just paste them in your cpanels folder and let it overwrite 
+files when prompted.
+
+Thanks to the MAME32 Plus! guys for adding cpanels support:
+http://mame.emusilent.net
+
+
+Quick pack info:
+
+cpanels16.zip 13 MB
+
+937 total cpanels images (all 16 packs)
+
+
+-Smitdogg
+
+Official cpanels website: http://www.eldio.co.uk/
+
+_______________________________________________________________________________________________________
+
+Jan. 14, 2003
+
+Back from the dead. I've decided to continue with the control panel packs after a 1+ year hiatus,
+mainly because of the great flood of images I've recently gotten thanks to oNyX and Marshall. I 
+don't have time to keep coming out with packs very often at all, but I found some time and got 
+this together, and I will continue to release new packs periodically (I hope). The new max width
+is 750 pixels, with the exception of a small handfull of images which have instruction 
+strips/instruction gfx, those had to be 1000 pixels wide or else you wouldn't be able to read the 
+text. Examples are a handful of NeoGeo panels and sf2ce.png. If there was a (large image size) panel 
+pic with text that couldn't be read at 1000 wide, it was sized down to 750. I still haven't bored
+you yet? Great, keep reading :P
+
+Well, I'm sure some people won't be happy about having to download all the packs again, sorry. But
+there's nothing I can do about it, all the files changed (every one). When I released the packs 
+a year ago, I didn't know about png compression (oops), and in that time, names have changed, lots 
+of images have been added and updated, I didn't black out the images before, etc. Besides, I worked 
+my ass off on this, so don't bitch :P
+
+Thanks again to Ciro for supporting these in EmuLoader:
+http://www.mameworld.net/emuloader/
+
+Thanks to Fabio for adding support to MAMEFE for them:
+http://mamefe.mameworld.net/
+
+Thanks to the main contributors oNyX, Marshall, and DJ Rosen for taking and/or supplying pics, and 
+to everybody else who took the pics (too many sources to name and I don't even know them all, sorry). 
+
+Thanks to Eldio for hosting these packs and making dats for ClrMAME and Rom Center. Also thanks in 
+advance to any other frontend authors that add support for them in the future.
+
+Quick pack info:
+
+cpanels01.zip 14.9 MB
+cpanels02.zip 14.9 MB
+cpanels03.zip 14.9 MB
+cpanels04.zip 14.9 MB
+cpanels05.zip 14.9 MB
+cpanels06.zip 14.9 MB
+cpanels07.zip 14.9 MB
+cpanels08.zip 14.9 MB
+cpanels09.zip 14.9 MB
+cpanels10.zip 14.9 MB
+cpanels11.zip 14.9 MB
+cpanels12.zip 14.9 MB
+cpanels13.zip 14.9 MB
+cpanels14.zip 14.9 MB
+cpanels15.zip 10.1 MB
+
+880 total images
+
+-Smitdogg
+
+Official cpanels website: http://www.eldio.co.uk/
+
+
+_______________________________________________________________________________________________________
+
+
+Packs 1-12; October 28th, 2001
+
+Zipfile Name/Size Quick Info:
+cpanels_1 ~10 megs
+cpanels_2 ~10 megs
+cpanels_3 ~10 megs
+cpanels_4 ~10 megs
+cpanels_5 ~10 megs
+cpanels_6 ~10 megs
+cpanels_7 ~10 megs
+cpanels_8 ~10 megs
+cpanels_9 ~10 megs
+cpanels_10 ~10 megs
+cpanels_11 ~10 megs
+cpanels_12 ~6 megs
+-Total ~115 megs/514 images-
+
+Quick & Simple Instructions:
+These packs work the same way the others (cabinets, flyers, etc.) do. Unzip all the packs into a folder 
+named "cpanels" and put it inside your MAME folder, you can also combine all the .png files into 
+"cpanels.zip", and place it inside the "cpanels" folder. 
+
+Notes:
+There is support already for these packs in EmuLoader, and hopefully in other frontends and MAME32 in 
+the future. 99.9% of these pics were created from pictures given to me by oNyX, these packs certainly 
+wouldn't have been possible without him.
+
+These images are of varying quality/size. I kept all of them in their original size (how they were when 
+I got them) to preserve maximum possible quality. However, if they were enormous (more than 650 pixels 
+wide) then they were resized to have a maximum width of 650 pixels. I don't think there's any need for 
+a larger size than that for frontend use. Smaller and/or less quality pics will be replaced via future 
+packs as better ones become available. 
+
+The backgrounds of these images are not blacked out (a small handful are but mostly not), I don't have 
+time to do that, feel free to black them out yourself if it means that much to you ;-)) I recommend 
+using the "Stretch" option in EmuLoader for best viewing.
+
+URL:
+http://emam.mameworld.net/tree/trunk/cpanels.htm
+
+Credits:
+oNyX
+Eldio
+RocLobsta
+KiLLerCloWn
+Marshall of ImageXtreme
+
+And special thanks to Ciro for supporting them in his fantastic frontend, EmuLoader.
+
+-Smitdogg

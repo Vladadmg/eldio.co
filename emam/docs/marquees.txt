@@ -1,0 +1,127 @@
+----------------------------------------
+MARQUEE PACKS AT HTTP://WWW.ELDIO.CO.UK/
+----------------------------------------
+[ marquee01.zip ] 14.0MB / 138 [ FINAL ]
+[ marquee02.zip ] 14.0MB / 171 [ FINAL ]
+[ marquee03.zip ] 14.1MB / 164 [ FINAL ]
+[ marquee04.zip ] 14.0MB / 130 [ FINAL ]
+[ marquee05.zip ] 14.0MB / 157 [ FINAL ]
+[ marquee06.zip ] 14.0MB / 133 [ FINAL ]
+[ marquee07.zip ] 14.0MB / 176 [ FINAL ]
+[ marquee08.zip ] 11.7MB / 115 [ FINAL ]
+[ marquee09.zip ] 11.2MB / 085 [ FINAL ]
+[ marquee10.zip ] 10.5MB / 075 [ FINAL ]
+[ marquee11.zip ] 06.5MB / 055 [ FINAL ]
+----------------------------------------
+0.56 to 0.64 transition...
+----------------------------------------
+rename btlkrodj.png -> btlkroad.png
+rename ghostmun.png -> gmgalax .png
+rename gunsmrom.png -> gunsmoku.png
+rename hcastlea.png -> hcastleo.png
+rename warlord .png -> warlords.png
+
+delete arknoidu.png (duplicate)
+delete astrob2 .png (duplicate)
+delete gradius .png (duplicate)
+
+delete atompunk.png (incorrect)
+delete einnings.png (incorrect)
+delete mole    .png (incorrect)
+delete nrallyx .png (incorrect)
+delete spaceint.png (incorrect)
+----------------------------------------
+1233 marquees named correctly for M 0.64
+----------------------------------------
+Standard Old		       350 x HEI
+Standard New		       500 x HEI
+NeoGeo MVS Old	               350 x 420
+NeoGeo MVS New		       500 x 600
+Playchoice Sign	Old            350 x 167
+Playchoice Sign New	       500 x 238
+----------------------------------------
+USAGE...
+----------------------------------------
+Extract contents of the zips in order to
+your marquees directory and / or combine
+into a single marquees.zip for displayal
+in your favourite frontend. Then you can
+use ClrMAME &/or Romcenter to check your
+files using the supplied DAT information
+----------------------------------------
+HISTORY...
+----------------------------------------
+In Jan 01 I took over the maintenance of
+the marquee packs for MAME. At that time
+there were a total of 476 images using a
+depth of 256 colours. They were also 350
+pixels wide only. It was not long before
+it was decided that 500 pixels and 16bit
+colour depth would be needed. That's the
+current standard. The vast bulk of these
+marquee images have been saved from Ebay
+which then have passed through my insane
+APS squaring & PSP brushing process. The
+majority of the NeoGeo / MVS insert raws
+are thanks to oNyX and his contacts such
+as Donnie. I would like to thank oNyX as
+he has always been a huge help since the
+humble beginnings. Of course, there have
+been many other people who have provided
+submitions or have been of help over the
+years with things. A big saluted thanks!
+In the past two years I would say I have
+spent at least 1000 hrs on these marquee
+images. So you better fekking enjoy ! :] 
+----------------------------------------
+PRESENT...
+----------------------------------------
+There seems to be a continuous influx of
+new or better marquee images that can be
+used for the packs. So there doesnt seem
+to be end in sight at the present moment
+----------------------------------------
+FUTURE...
+----------------------------------------
+I am keeping an archive of marquees that
+are in their original size and have been
+brushed up and restored. They are in PNG
+format and not subject to the horrors of
+JPEG compression. If the future requires
+images of a larger proportion then youll
+be pleased to know that I probably won't
+have a fekking 56K modem at that time :]
+----------------------------------------
+WHERE ON THE WEB...
+----------------------------------------
+These marquee images are used in various
+places across the web from small project
+web sites to large information databases
+----------------------------------------
+http://www.mame.dk/
+http://www.klov.com/
+http://www.system16.com/
+----------------------------------------
+GREETINGS TO...
+----------------------------------------
+Donnie & Joe McCabe & Garg & Xray1
+Onyx & Arcade Museum & MVS Crew
+Brooksie & The Extreme Arcade
+Ebay & Sellers & Arcade Sites
+Alt.Games.Mame & Tombstones
+Smitdogg & The L3E+ P05S3
+Retrogames & The RG Crew
+Arcade Collecting & CAGA
+Roman Scherzer & Logiqx
+Phydeaux & Closet2Mame 
+Tomm @ MGcAP & IonPool
+Croc & JC @ Mameworld
+Myclone & Gyrovision
+Strider & Cybercade
+PSP 7.04 & APS 6.01
+Phil & Mame Arena
+Sixtoe & System16
+Eldio & EMAM :)
+----------------------------------------
+YOU CAN CONTACT ME HERE ELDIO@FSMAIL.NET
+----------------------------------------
